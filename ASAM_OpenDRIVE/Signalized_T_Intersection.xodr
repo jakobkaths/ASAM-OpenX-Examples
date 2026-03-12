@@ -108,7 +108,7 @@
       </laneSection>
     </lanes>
     <signals>
-      <signal country="OpenDRIVE" dynamic="yes" id="7" orientation="+" subtype="-1" type="1000001" s="98.276644781935914" t="-4.814608097076416" zOffset="2">
+      <signal country="OpenDRIVE" dynamic="yes" height="0.731" id="7" length="0.416" orientation="+" subtype="-1" type="1000001" width="0.23" s="98.276644781935914" t="-4.814608097076416" zOffset="2">
         <reference elementId="9" elementType="signal" />
       </signal>
       <signal dynamic="no" id="9" name="stopline" orientation="+" subtype="-1" type="294" s="95.706578121522881" t="0" zOffset="0">
@@ -197,7 +197,7 @@
       </laneSection>
     </lanes>
     <signals>
-      <signal country="OpenDRIVE" dynamic="yes" hOffset="0" id="3" orientation="+" pitch="0" roll="0" subtype="-1" type="1000001" s="98" t="-4.5" zOffset="1.5">
+      <signal country="OpenDRIVE" dynamic="yes" height="0.731" hOffset="0" id="3" length="0.416" orientation="+" pitch="0" roll="0" subtype="-1" type="1000001" width="0.23" s="98" t="-4.5" zOffset="1.5">
         <reference elementId="10" elementType="signal" />
       </signal>
       <signal dynamic="no" id="10" name="stopline" orientation="+" subtype="-1" type="294" s="95.7402276882959" t="0" zOffset="0">
@@ -286,7 +286,7 @@
       </laneSection>
     </lanes>
     <signals>
-      <signal country="OpenDRIVE" dynamic="yes" id="8" orientation="-" subtype="-1" type="1000001" s="1.8979860634435921" t="4.2901439666748047" zOffset="2">
+      <signal country="OpenDRIVE" dynamic="yes" height="0.731" id="8" length="0.416" orientation="-" subtype="-1" type="1000001" width="0.23" s="1.8979860634435921" t="4.2901439666748047" zOffset="2">
         <reference elementId="11" elementType="signal" />
       </signal>
       <signal dynamic="no" id="11" name="stopline" orientation="-" subtype="-1" type="294" s="4.1411481827389443" t="0" zOffset="0">
